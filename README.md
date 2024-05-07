@@ -43,4 +43,4 @@ To develop a project on Course Reservation and Exam Registration System using Ra
 </div>
 
 ### RESULT:
-Thus the ATM and banking System project was executed and the output was verified.
+Thus, the Student information system project was executed and the output was verified.
