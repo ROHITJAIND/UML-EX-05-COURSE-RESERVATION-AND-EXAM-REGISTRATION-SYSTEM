@@ -27,6 +27,7 @@ To develop a project on Course Reservation and Exam Registration System using Ra
 #### SEQUENCE DIAGRAM:
 <div align="center">
 
+![image](https://github.com/ROHITJAIND/UML-EX-05-COURSE-RESERVATION-AND-EXAM-REGISTRATION-SYSTEM/assets/118707073/3eba53bd-083b-41d0-b2ad-4c72d6d271f3)
 
 </div>
 
@@ -39,6 +40,7 @@ To develop a project on Course Reservation and Exam Registration System using Ra
 #### ACTIVITY DIAGRAM:
 <div align="center">
 
+![image](https://github.com/ROHITJAIND/UML-EX-05-COURSE-RESERVATION-AND-EXAM-REGISTRATION-SYSTEM/assets/118707073/60faefaa-a49a-4aa0-a3e7-4d5e8c1fb26a)
 
 </div>
 
